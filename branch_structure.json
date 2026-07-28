@@ -1,0 +1,30 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "master",
+    "origin",
+    "uiux/compliance-appeal-form",
+    "uiux/compliance-severity-badges",
+    "uiux/governance-proposal-detail",
+    "uiux/kyc-document-capture-tips",
+    "uiux/sessions-device-detail-drawer"
+  ],
+  "parent": {
+    "master": null,
+    "origin": "master",
+    "uiux/compliance-appeal-form": "master",
+    "uiux/compliance-severity-badges": "master",
+    "uiux/governance-proposal-detail": "master",
+    "uiux/kyc-document-capture-tips": "master",
+    "uiux/sessions-device-detail-drawer": "master"
+  },
+  "order": [
+    "master",
+    "origin",
+    "uiux/compliance-appeal-form",
+    "uiux/compliance-severity-badges",
+    "uiux/governance-proposal-detail",
+    "uiux/kyc-document-capture-tips",
+    "uiux/sessions-device-detail-drawer"
+  ]
+}
